@@ -19,14 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](../../QR-code-component/screenshots/screenshot-desktop.png)
-![](../../QR-code-component/screenshots/screenshot-mobile.png)
+![](../qr-code-component/screenshots/Screenshot-desktop.png)
+![](../qr-code-component/screenshots/Screenshot-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/qr-code.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (http://127.0.0.1:5500/index.html)
+- Live Site URL: (https://delightful-seahorse-8a167d.netlify.app/)
 
 ## My process
 
